@@ -84,11 +84,12 @@ a {
 }
 
 .content {
-  max-width: 650px;
-  margin-left: 110px;
+  max-width: 760px;
+  margin-left: 115px;
   margin-right: 20px;
   margin-bottom: 50px;
   h1, h2, h3, h4 {
+    max-width: 960px;
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     font-weight: 400;
