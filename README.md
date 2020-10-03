@@ -11,16 +11,6 @@ If you'd like give \[the author\] credit somewhere on your blog or tweet a shout
   to be the domain you're going to use. All that should be in here is a
   domain name on the first line and nothing else (like: `example.com`).
 
-## Deployment
-
-Left is designed to be deployed to [GitHub Pages](http://pages.github.com). It
-uses [repository metadata](https://help.github.com/articles/repository-metadata-on-github-pages)
-to generate some of your content, like your GitHub URL and avatar information (so you
-might not actually see it locally until you push it up to Pages).
-
 ## Licensing
 
-This is [MIT](https://github.com/holman/left/blob/gh-pages/LICENSE) with no
-added caveats, so feel free to use this on your site without linking back to
-me or using a disclaimer or anything silly like that.
-
+Left is [MIT](https://github.com/holman/left/blob/gh-pages/LICENSE) but all original content in the posts of this
