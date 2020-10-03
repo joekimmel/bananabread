@@ -1,0 +1,10 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Banana Bread du Jour
+url: https://tbd
+description: Mostly about all the times I make banana bread
+twitter: can go fuck itself
