@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Banana Bread Du Jour; Cauliflower Herb Bread
+title: Banana Bread Du Jour; Cauliflower Herb Banana Bread
 category: posts
 ---
 
@@ -67,6 +67,7 @@ Be a responsible adult: cut into wedges and lightly fry each exposed wedge face,
 
 - 4/10 : edible and decent tasting but would do differently next time.
 - "It tastes like stuffing"   -- a more charitable reviewer
-- "Sounds good, like 1970s vegetarian food. I hate to tell you that the precooking of cauliflower you don't want to do is what would save you from swampiness." -- your friend Jess
+- "Sounds good, like 1970s vegetarian food. I hate to tell you that the precooking of cauliflower you don't want to do is what would save you from swampiness." -- your friend Jess, who is a very good cook and baker
+- "I kept waiting for the banana to appear." -- an equally skilled cook and baker
 
 
