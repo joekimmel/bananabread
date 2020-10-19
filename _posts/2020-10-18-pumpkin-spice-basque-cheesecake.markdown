@@ -12,7 +12,7 @@ Your office has a slack channel for baking, because hashtag-of-course-it-does.
 One coworker posted [Basque Burnt Cheesecake](https://www.bonappetit.com/recipe/basque-burnt-cheesecake), which bills itself
 as the rough-and-ready unfussy opposite of the more difficult cheesecake that most people mean when they say cheesecake.
 So another coworker asked,
-"oooh do you think that would work as pumpkin spice cheesecake?"
+"Do you think that would work as pumpkin spice cheesecake?"
 
 Say no more, fam.
 
