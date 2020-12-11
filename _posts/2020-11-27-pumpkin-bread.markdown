@@ -9,7 +9,7 @@ category: posts
 In the household of my adolescence we had Harvest Loaf in the fall and Chickpea Loaf in the spring (shouts to E.B.E.'s _Recipes for a Small Planet_).
 
 My mom insists this "Harvest Loaf" is crucially defined by the inclusion of chocolate chips and walnuts into a pumpkin cake.
-Crucially, during a family Thanksgiving zoom call she started talking about "Harvest Loaf" and the only people who had any clue what she was talking about had grown up in her house.
+Even more crucially, during a family Thanksgiving zoom call she started talking about "Harvest Loaf" and the only people who had any clue what she was talking about had grown up in her house.
 
 First of all, the suffix "loaf" is basically the opposite of good marketing for almost anything. 
 Examples:
@@ -17,6 +17,7 @@ Examples:
 - _I made this banana loaf you want any?_
 - _Have you listened to the new Meatloaf album?_
 
+Second of all,  just look at this banana bread!
 ![Don't Call It A Loaf](/images/2020-11-27-pumpkin-bread.jpg)
 
 ## Ingredients
