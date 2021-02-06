@@ -21,7 +21,7 @@ Then Vaughnda plays that Cibo Matto song about baking a cake where the refrain i
 
 Add salt and baking soda to the flour and get Vaughnda to mix it.
 
-Add some yogurt, olive oil, and the melted butter to the orange sugar. Use a whisk? I'm sure a spoon would have been fine, but you you know, cream it. Also, taste that shit. It's kind of magical, no?
+Add some yogurt, olive oil, splash of vanilla, and the melted butter to the orange sugar. Use a whisk? I'm sure a spoon would have been fine, but you you know, cream it. Also, taste that shit. It's kind of magical, no?
 
 Whisk in three eggs to your orange goo.
 
@@ -31,13 +31,15 @@ Pre-heat the oven and let the batter sit for a little.
 
 Lightly oil a loaf pan and bake at 350 for about 60 minutes or until a knife comes out clean.
 
+Make the most of your time: wash the dishes, vacuum a little... it's friday night!
+
 ## Critical Praise For Orange Poppy Seed Banana Bread
 
 - "It's Great." -- Vaughnda
 
 - "That was good cake. I want another piece." (six minutes later)
 
-- 8/10. A little dry, and I probably should've baked it 5 minutes less as the crust is a touch thick. The flour and baking process really tamps down the "magical orange creamsicle" flavor of just the wet ingredients. 
+- 8/10. A little dry, and I probably should've baked it 5 minutes less as the crust is a touch thick. The flour and baking process really tamps down the "magical orange creamsicle" flavor of just the wet ingredients. (but also I still don't have my full taste back from the covids so honestly it's hard to tell. Vaughnda says it's super orangey.)
 
 - I just vacuumed, but I feel like there's going to be a lot of little poppy seeds on the floor in the next day or two.
 
