@@ -74,7 +74,7 @@ Anyway if you overbake it, the bread gets stiffer and you wind up with Pita crac
 
 I dunno I've been on vacation this week with my mom visiting and we've made three variations on this recipe so i think the fact we keep making it kinda speaks for itself. 
 
-It's a more active process than baking just a regular loaf of the same volume, since every 3 minutes you're putting a new batch in or pulling the finished ones out, but otherwise it's only as much work as any other half-assed sourdough bread which is somehow simultaneously not very much work and yet also so much work that you're not sure why commercial bread is available for under $20/loaf.
+It's a more active process than baking just a regular loaf of the same volume, since every 3 minutes you're putting a new batch in or pulling the finished ones out, but otherwise it's only as much work as any other half-assed sourdough bread which (to misquote Jess) is somehow simultaneously not very much work and yet also so much work that you're not sure why commercial bread is available for under $20/loaf.
 
 ## Freedom
 
