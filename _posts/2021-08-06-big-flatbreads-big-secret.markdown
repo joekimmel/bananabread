@@ -55,13 +55,20 @@ I've been using a 12" and 10" cast iron pan, because that's what I own and they 
 
 Punch down the dough and knead it for a minute. Break it into 7-10 balls of vaguely equal portions. Lightly oil each dough-ball so that they don't stick together as you place them back in the bowl.
 
+![Finished Flatbreads and Doughballs awaiting their fate](/images/2021-08-06-before-and-after.jpg)
+
 Spread flour across a wide working surface, and then roll the dough balls out into roughly flat circles one at a time.  If you're baking them in batches of 2+ you can set aside the circles for a few minutes after you've rolled them out. They'll be lightly coated in dry flour and that's great.
+
+
+![Flat dough on a floured board](/images/2021-08-06-rolled-dough.jpg)
 
 Bake for ~3 minutes. You can watch the air bubbles form as you bake them, and if you've kept a pretty dry dough, rolled it thin, and kept the oven fully hot, you're pretty likely to get them to fully poof up into pita-ish things.
 I'm no breadologist, but I think rolling them seals the outside and the tiny amount of moisture trapped within turns into steam which inflates the bread.
 Or, I mean, it's a divine miracle and proof of universal love. Except not from the yeast's prespective.
 
 Anyway if you overbake it, the bread gets stiffer and you wind up with Pita crackers or something so I recommend keeping it pretty close to 3 minutes.  I also got better results waiting a few minutes between batches for the oven to reheat itself.
+
+![just finished bread in the pans](/images/2021-08-06-pitas-in-pan.jpg)
 
 ## Critical Reviews
 
