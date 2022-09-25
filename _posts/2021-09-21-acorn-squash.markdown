@@ -6,7 +6,8 @@ category: posts
 
 ## Genesis
 
-Why is "squash" the word for what we do when we sit on something soft, like a sandwich, but also the word for that one sport that's really popular in India, and also for the food that is basically 17th century survivalist rations.
+Why is "squash" the word for what we do when we sit on something soft, like a sandwich, but also the word for that one sport that's not quite tennis but also not pickleball, and also for the food that is basically 17th century survivalist rations.
+
 "I say Carl, winter might be six months long and we haven't invented Raspberries in January yet." 
 
 "Indeed, we haven't even invented peanut butter, electricity, or Not Being Racist Assholes, so we sure as shit don't know how to keep things fresh if they can't be buried in the snow or underground."
