@@ -29,8 +29,8 @@ Combine all the ingredients that aren't squash and then squash them into the cav
 After an hour in the oven the little yams are delicious - carmelized at the edges, crisp at the skin, and soft, gooey, and rich in the middle.   And the filling is clearly done, getting close to burnt at the top.   And the squash is entirely edible, in the sense that it seems unlikely to be any kind of poison or toxin.
 
 
-When you buy squash voluntarily it's butternet or spaghetti : both squashes named after actual tasty food.
-Consider in contract the acorn squash, named after something else that's technically edible but which hasn't been a staple for any societies on this continent since the invention of Manifest Destiny.
+When you buy squash voluntarily it's butternet or spaghetti: both squashes named after actual tasty food.
+Consider in contrast the acorn squash, named after something else that's technically edible but which hasn't been a staple for any societies on this continent since the invention of Manifest Destiny.
 
 
 ## Reviews
